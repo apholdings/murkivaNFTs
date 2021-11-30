@@ -1,0 +1,14 @@
+
+# dependencias de tailwind
+npm install -D tailwindcss@npm:@tailwindcss/postcss7-compat postcss@^7 autoprefixer@^9 @craco/craco @heroicons/react @headlessui/react
+
+npm i @tailwindcss/forms @tailwindcss/typography @tailwindcss/line-clamp @tailwindcss/aspect-ratio
+
+# dependencias del proyecto
+npm i @metamask/detect-provider @openzeppelin/contracts babel-polyfill babel-preset-env babel-preset-stage-2 babel-preset-stage-3 babel-register chai chai-as-promised chai-bignumber react-router-dom truf
+fle web3
+
+npm i react-toastify
+
+# redux
+npm i redux redux-thunk react-redux redux-devtools-extension
